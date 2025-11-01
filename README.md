@@ -1,4 +1,4 @@
-💰 Family Expense Tracker Using ServiceNow
+**💰 Family Expense Tracker Using ServiceNow**
 
 🧭 Overview
 The Family Expense Tracker is a smart financial management system built on the ServiceNow platform. It helps families efficiently track, categorize, and manage daily expenses, while offering budget control, real-time tracking, and insightful analytics. Designed for scalability and ease of use, this project empowers families to make data-driven financial decisions.
